@@ -1,0 +1,42 @@
+[debug] [2021-10-26T22:22:02.307Z] ----------------------------------------------------------------------
+[debug] [2021-10-26T22:22:02.309Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ziyad\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-26T22:22:02.310Z] CLI Version:   9.21.0
+[debug] [2021-10-26T22:22:02.310Z] Platform:      win32
+[debug] [2021-10-26T22:22:02.310Z] Node Version:  v14.16.1
+[debug] [2021-10-26T22:22:02.311Z] Time:          Wed Oct 27 2021 00:22:02 GMT+0200 (Eastern European Standard Time)
+[debug] [2021-10-26T22:22:02.311Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-26T22:22:02.317Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-26T22:22:02.317Z] > authorizing via signed-in user (ziyad.al.junaidi@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ziyad\Desktop\WeatherForcastDemo
+
+[debug] [2021-10-26T23:42:10.064Z] ----------------------------------------------------------------------
+[debug] [2021-10-26T23:42:10.066Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ziyad\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-26T23:42:10.067Z] CLI Version:   9.21.0
+[debug] [2021-10-26T23:42:10.067Z] Platform:      win32
+[debug] [2021-10-26T23:42:10.067Z] Node Version:  v14.16.1
+[debug] [2021-10-26T23:42:10.068Z] Time:          Wed Oct 27 2021 01:42:10 GMT+0200 (Eastern European Standard Time)
+[debug] [2021-10-26T23:42:10.068Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-26T23:42:10.074Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-26T23:42:10.075Z] > authorizing via signed-in user (ziyad.al.junaidi@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ziyad\Desktop\WeatherForcastDemo
+
